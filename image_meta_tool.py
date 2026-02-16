@@ -1,4 +1,3 @@
-from server import mcp
 from PIL import Image, ExifTags
 from typing import Any, Dict
 
